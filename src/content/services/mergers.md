@@ -1,5 +1,5 @@
 ---
-title: Bran Building
+title: Brand Building
 date: '2021-07-15T14:00'
 featured: true
 draft: false
