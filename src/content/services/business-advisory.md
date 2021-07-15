@@ -1,6 +1,6 @@
 ---
 title: Automation Marketing
-date: '2018-11-01T00:14'
+date: '2021-07-15T00:14'
 featured: true
 draft: false
 weight: 2
