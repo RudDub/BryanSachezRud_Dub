@@ -5,46 +5,63 @@ featured: true
 draft: false
 weight: 3
 ---
+Desarrollo campañas ads publicitarias para que los anuncios de tus productos se posicionen en los primeros resultados de búsqueda de Google y se de uso de diferentes formatos publicitarios.
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+# ¿CÓMO FUNCIONA LA PUBLICIDAD EN GOOGLE?
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Con la implementación de la publicidad en google podrás atraer nuevo trafico a tu sitio web, lograr aumentar las ventas en línea, y hacer que los usuarios llamen o regresen por más.
 
-## Geniti facinus praeruptam atris ab manus in
+Los anuncios de Google Ads ayudan a que puedas llegar a las personas que buscan tus productos o servicios, a tan solo un clic de distancia.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+## CAMPAÑAS PUBLICITARIAS SEGÚN OBJETIVOS
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+**1)RED DE BUSQUEDA** 
 
-## Vidit si probetne vertitur
+Es una de las formas más rápida para aparecer en los resultados de búsqueda de Google y aumentar el trafico a tu sitio web.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+![](https://lh5.googleusercontent.com/xCV52YwBYIKU6wiq-T74eG_QvaLP0iY4-q9pOzOFhNPiXK8Yj8uK5Tw95ITbHcgaMR-r-C7TBwptlzHdxqV1hn-3bM2t1WwGb\_6ZaoCLtsdHHxBHQZ\_8SVekHtBEj_WG1oG7B6Gb4COk9xamrw)
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+**2)RED DE DISPLAY**
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Muestra tus anuncios en sitios web o aplicaciones que usa tu público objetivo para encaminar a tu sitio web.
+
+![](https://www.ingeniovirtual.com/wp-content/uploads/que-es-sem-o-marketing-en-buscadores.jpg)
+
+**3)RED DE VIDEO**
+
+Muestra tus anuncios en YouTube a personas que cumplen con características de tu público objetivo.
+
+![](https://www.uncommunitymanager.es/wp-content/uploads/seo_google_youtube.jpg)
+
+**4)RED SHOPPING**
+
+Este tipo de publicidad es vital para plataformas e-commerce para aumentar las ventas online de tus productos.
+
+![](https://www.datafeedwatch.com/hs-fs/hubfs/academy/google-shopping-red-shoes.png?width=700\&name=google-shopping-red-shoes.png)
+
+**5)REMARKETING**
+
+Se enfoca en hacerle seguimiento a usuarios que ya tienen interés en tus productos o servicios.
+
+![](https://blogs.upc.edu.pe/sites/default/files/upc/blogs/lista_blogs/blog_de_administracion_y_marketing/blog_post/2017/agosto/blogpost_imagen_principal/proceso-remarketing1.png)
+
+### BENEFICIOS DE LA PUBLICIDAD EN GOOGLE
+
+*    **Análisis y medición**
+
+"Lo que no se puede medir, no se puede mejorar"
+
+Medir y saber exactamente si tu inversión te está generando ROI (RETORNO) es uno los retos mas importantes. Ya que puedes saber que Keywords, anuncios y campañas son las que te están generando mayor retorno y cuales no están funcionando. Permitiendo así optimizar las campañas constantemente y obtener mejores resultados con el paso del tiempo.
+
+*   **Pago Por Clic**
+
+Con Google Ads solamente pagas cuando una persona da clic en el anuncio. A diferencia de otros tipos de anuncios como CPM o compra de banners, ya que normalmente los usuarios que dan clic están interesados en tu producto
+
+*   **Relevancia al máximo**
+
+Con Google Ads hay otra ventaja y es que puedes hacer que tus anuncios sean relevantes y que solo se les muestre a las personas que están buscando algo relacionado a lo que estas ofreciendo y asi ser encontrado por medio de las palabras clave de la industria y salga en los primeros lugares de google
+
+*   **Rapidez**
+
+Con Google Ads puedes obtener tus primeros visitantes o compradores en cuestión de horas. Puedes crear tus campañas y anuncios para que tus prospectos puedan visualizarlos rápidamente sin necesidad de esperar días o un sin número de procesos.
