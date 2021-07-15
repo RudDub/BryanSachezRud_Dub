@@ -5,49 +5,24 @@ featured: true
 draft: false
 weight: 5
 ---
+reúne todos los esfuerzos del marketing digital, incluido El SEO, Marketing de Contenidos, Publicidad Digital y las Estrategias de Redes Sociales en una manera más organizada y estratégica.
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## **¿Como Funciona el Inbound Marketing?**
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+El Inbound Marketing ha transformado la forma en que se hace marketing y las ventas. Esta metodología esta enfocada en entender a tus prospectos y entregar el contenido que necesitan, el formato correcto y en el momento cuando ellos buscan tu servicio o producto
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+1.  **ATRAER: **Consiste en llevar trafico al sitio web a través de contenido de valor y que sepan de nuestros canales
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+2.  **CONVERTIR: **Con herramientas y estrategias que permitan generar interacción con el trafico en el sitio web, adquirir sus datos y convertirlo en un Lead potencial.
 
-## Postquam tamen
+3.  **CERRAR: **Humanizar una relación sólida y de confianza con los leads potenciales, brindándole soluciones a sus necesidades y convertirlos en clientes embajadores.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+4.  **FIDELIZAR: **Brindar una excelente experiencia de marketing, contenido de valor y convertir los clientes en promotores de marca.![](https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2017/05/purchase-funnel.jpg)
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### **Beneficios del Inbound Marketing**
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+\-El presupuesto que se necesita es relativamente bajo para empresas pequeñas, esto revela una gran oportunidad para que las empresas desarrollen un marketing mas eficiente adoptando las practicas de inbound marketing
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+
+\-El incremento en el costo por clic (CPC) en las plataformas de publicidad online están conduciendo a las compañías a pensar en acciones de marketing online que garanticen mejor (ROI)
