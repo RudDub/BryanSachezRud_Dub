@@ -4,7 +4,13 @@ intro_image: /images/illustrations/pointing.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
+# ¿Who I Am?
 
-# Serif - A Hugo Business Theme.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+\-Growth Marketing 🚀 specialized in Social Media (Strategy-Planner).
+
+\-Focused on (Inbound-Outbound).
+
+\-Campaigns that solve customer needs and drives business impact 💡.
+
+\-With extensive knowledge of Analytics Metrics and performance goal settings. ✈
