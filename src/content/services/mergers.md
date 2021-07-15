@@ -3,7 +3,7 @@ title: Bran Building
 date: '2021-07-15T14:00'
 featured: true
 draft: false
-weight: 4
+weight: 3
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
