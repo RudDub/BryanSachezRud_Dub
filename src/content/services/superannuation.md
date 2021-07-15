@@ -13,7 +13,7 @@ El Inbound Marketing ha transformado la forma en que se hace marketing y las ven
 
 1.  **ATRAER:** Consiste en llevar trafico al sitio web a través de contenido de valor y que sepan de nuestros canales
 
-2.  **CONVERTIR: **Con herramientas y estrategias que permitan generar interacción con el trafico en el sitio web, adquirir sus datos y convertirlo en un Lead potencial.
+2.  **CONVERTIR**: Con herramientas y estrategias que permitan generar interacción con el trafico en el sitio web, adquirir sus datos y convertirlo en un Lead potencial.
 
 3.  **CERRAR:** Humanizar una relación sólida y de confianza con los leads potenciales, brindándole soluciones a sus necesidades y convertirlos en clientes embajadores.
 
