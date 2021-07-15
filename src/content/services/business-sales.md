@@ -1,6 +1,6 @@
 ---
 title: SEM
-date: '2018-11-01T00:15'
+date: '2018-07-15T00:15'
 featured: true
 draft: false
 weight: 3
