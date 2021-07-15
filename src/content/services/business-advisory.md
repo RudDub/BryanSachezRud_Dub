@@ -27,30 +27,30 @@ Es la etapa final de todo funnel, por lo consiguiente una estrategia de marketin
 
 ### Beneficios del marketing automation
 
-Cada vez vemos como las empresas se unen a la automatización de sus actividades de marketing y ventas. 
+Cada vez vemos como las empresas se unen a la automatización de sus actividades de marketing y ventas.
 
 Lo que buscan estas empresas es mejorar los tiempos de respuesta y atención a sus clientes como obtener de manera automatizada oportunidades de venta.
 
 *   Ahorrar Tiempo.
 
-<!---->
 
-*    Menos margen de error.
 
-<!---->
+*   Menos margen de error.
 
-*    Control sobre los datos.
 
-<!---->
 
-*    Leads mejores cualificados.
+*   Control sobre los datos.
 
-<!---->
 
-*    Segmentación de clientes para llegar mejor al público potencial.
 
-<!---->
+*   Leads mejores cualificados.
 
-*    Se reducen los costos por adquisición por cliente.
+
+
+*   Segmentación de clientes para llegar mejor al público potencial.
+
+
+
+*   Se reducen los costos por adquisición por cliente.
 
 La automatización es cada vez más importante, y las empresas no deben ignorarlo.
