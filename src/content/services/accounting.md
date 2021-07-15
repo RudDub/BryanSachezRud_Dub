@@ -2,7 +2,7 @@
 title: SEO
 date: '2021-07-15T14:00'
 featured: true
-weight: 2
+weight: 3
 ---
 Ayudo a la Posicion orgánica de tu sitio web en buscadores como google teniendo en cuenta las reglas de su algoritmo para generar tráfico
 
